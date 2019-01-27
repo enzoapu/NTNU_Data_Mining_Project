@@ -1,1 +1,3 @@
-# NTNU_Data_Mining_Project
+# NTNU Data Mining
+
+107-1 Data Mining final project
